@@ -6,7 +6,7 @@
 
 <img src="assets/branding/wordmark.png" alt="AMDTVMATE" width="510" />
 
-### Vos contenus. Votre univers. Votre liberté.
+### Tout votre univers, sur grand écran.
 
 **Une nouvelle façon de vivre la télévision et le cinéma, pensée pour votre grand écran.**
 
@@ -107,7 +107,7 @@ Retrouvez **saisons, épisodes et détails** dans une présentation pensée pour
     <td align="center" width="50%">
       <img src="assets/branding/logo.png" alt="Logo AMDTVMATE" width="180" />
       <br><strong>Thèmes personnalisables</strong>
-      <br><sub>Violet par défaut et d'autres ambiances colorées prévues.</sub>
+      <br><sub>Cinq thèmes : Violet, Bleu, Vert, Rouge et Orange.</sub>
     </td>
   </tr>
 </table>
@@ -118,8 +118,24 @@ Retrouvez **saisons, épisodes et détails** dans une présentation pensée pour
 - **Télécommande avant tout** — navigation directionnelle et focus visibles.
 - **Une expérience cinéma** — affiches, visuels et présentation soignée.
 - **Personnalisation** — profils, thèmes et préférences.
-- **Continuité** — reprise de lecture et parcours de téléchargement en développement.
+- **Continuité** — reprise de lecture, sélection des épisodes et téléchargements pour la lecture hors ligne.
 - **Fiabilité** — des fonctionnalités testées avant leur mise à disposition publique.
+
+---
+
+## Avancement — 10 novembre 2026
+
+Les développements récents comprennent :
+
+- TV en direct en trois zones, tri Orange TV, variantes d’une même chaîne accessibles dans un sélecteur et dernier choix de flux mémorisé. Les éditions régionales et décalées restent distinctes.
+- **EPG AMDTVMATE — fourni par XMLTV FR**, configuration initiale sans doublon et actualisation selon les réglages. La couverture dépend des correspondances disponibles.
+- Recherche par titre, graphies proches, genres et acteurs, limitée aux contenus identifiés dans les playlists ; choix de la personne en cas d’homonymie.
+- Accueil organisé autour du carrousel, des favoris et des reprises, avec fonds cinéma liés à la sélection et retours vers la carte d’origine.
+- Téléchargement d’épisodes sélectionnés au D-pad, pause/reprise et retours sur le bon élément après lecture.
+- Métadonnées suivant la langue de l’appareil par défaut, logos TMDB, années et titres défilants au focus. Les badges utilisent les informations de la source ou les dimensions observées lors d’une lecture normale.
+- Installation et profils à halos thématiques, chargements discrets, transitions désactivables et libellés audio/sous-titres enrichis selon les informations du média.
+
+Des contrôles ciblés et des essais manuels ont été réalisés sur un émulateur Android TV. Ils ne remplacent pas une validation générale sur les téléviseurs et boîtiers réels. Les dernières retouches du carrousel ont été validées ; la signature finale et les essais de mise à jour restent à finaliser.
 
 ---
 
@@ -137,13 +153,7 @@ Retrouvez **saisons, épisodes et détails** dans une présentation pensée pour
 
 Ce dépôt est dédié à la **présentation officielle** d'AMDTVMATE et, à terme, à la **distribution des APK stables approuvés**.
 
-Le mécanisme de mise à jour intégré à l'application est **prévu**, mais **pas encore opérationnel**. Sa conception doit notamment prendre en compte :
-
-- la signature cohérente des versions Android ;
-- la vérification de l'intégrité des fichiers distribués ;
-- la comparaison des versions pour empêcher les retours arrière accidentels ;
-- la confirmation de l'installation par Android ;
-- la préservation des profils, réglages et autres données compatibles.
+Le mécanisme de mise à jour de distribution dispose de contrôles d’identité, de version et de signature. Sa validation réelle entre deux versions signées reste à effectuer avant la première publication. Les builds de développement ne proposent pas l’installation des releases.
 
 **Aucun APK de développement ni identifiant privé ne sera publié ici.**
 
@@ -161,7 +171,7 @@ Le **code source du projet** est géré séparément ; ce dépôt public est con
 
 <img src="assets/branding/wordmark.png" alt="AMDTVMATE" width="320" />
 
-### Vos contenus. Votre univers. Votre liberté.
+### Tout votre univers, sur grand écran.
 
 <sub>Conçu pour Android TV · Pensé pour le grand écran · En évolution constante</sub>
 
