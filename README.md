@@ -13,9 +13,9 @@
 
 <br>
 
-![Statut](https://img.shields.io/badge/STATUT-VERSION_1.0.0-7C3AED?style=for-the-badge&labelColor=11101A)
+![Statut](https://img.shields.io/badge/STATUT-V%C3%89RIFICATION_EN_COURS-7C3AED?style=for-the-badge&labelColor=11101A)
 ![Plateforme](https://img.shields.io/badge/PLATEFORME-ANDROID_TV-242235?style=for-the-badge&labelColor=11101A)
-![Canal](https://img.shields.io/badge/RELEASES-1.0.0-6D28D9?style=for-the-badge&labelColor=11101A)
+![Canal](https://img.shields.io/badge/RELEASES-SUSPENDUE-6D28D9?style=for-the-badge&labelColor=11101A)
 
 <br>
 
@@ -123,9 +123,9 @@ Des contrôles ciblés et des essais manuels ont été réalisés sur un émulat
 
 ### AMDTVMATE 1.0.0
 
-**Première distribution signée pour Android TV ARM 32/64 bits.**
+**Téléchargement temporairement suspendu : vérification de la version après un écart signalé sur l’application installée.**
 
-[Télécharger AMDTVMATE 1.0.0](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/download/v1.0.0/AMDTVMATE-standard-v1.0.0.apk) · [Notes et sources](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.0.0)
+L’APK et ses sources sont conservés en brouillon pendant le diagnostic.
 
 [![Consulter les versions](https://img.shields.io/badge/CONSULTER_LES_RELEASES-GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amdriggard/AMDTVMATE-Releases/releases)
 
