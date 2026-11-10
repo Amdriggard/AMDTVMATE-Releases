@@ -13,9 +13,9 @@
 
 <br>
 
-![Statut](https://img.shields.io/badge/STATUT-EN_D%C3%89VELOPPEMENT-7C3AED?style=for-the-badge&labelColor=11101A)
+![Statut](https://img.shields.io/badge/STATUT-VERSION_1.0.0-7C3AED?style=for-the-badge&labelColor=11101A)
 ![Plateforme](https://img.shields.io/badge/PLATEFORME-ANDROID_TV-242235?style=for-the-badge&labelColor=11101A)
-![Canal](https://img.shields.io/badge/RELEASES-STABLE_%C3%80_VENIR-6D28D9?style=for-the-badge&labelColor=11101A)
+![Canal](https://img.shields.io/badge/RELEASES-1.0.0-6D28D9?style=for-the-badge&labelColor=11101A)
 
 <br>
 
@@ -113,7 +113,7 @@ Les développements récents comprennent :
 - Métadonnées suivant la langue de l’appareil par défaut, logos TMDB, années et titres défilants au focus. Les badges utilisent les informations de la source ou les dimensions observées lors d’une lecture normale.
 - Installation et profils à halos thématiques, chargements discrets, transitions désactivables et libellés audio/sous-titres enrichis selon les informations du média.
 
-Des contrôles ciblés et des essais manuels ont été réalisés sur un émulateur Android TV. Ils ne remplacent pas une validation générale sur les téléviseurs et boîtiers réels. Les dernières retouches du carrousel ont été validées ; la signature finale et les essais de mise à jour restent à finaliser.
+Des contrôles ciblés et des essais manuels ont été réalisés sur un émulateur Android TV. Ils ne remplacent pas une validation générale sur les téléviseurs et boîtiers réels. Les dernières retouches du carrousel ont été validées ; la signature finale, les builds debug/release et le transfert de sauvegarde sans mot de passe vers l’officielle sont validés. Les mises à jour entre deux versions de distribution restent à tester.
 
 ---
 
@@ -121,19 +121,21 @@ Des contrôles ciblés et des essais manuels ont été réalisés sur un émulat
 
 <div align="center">
 
-### Première version stable : à venir
+### AMDTVMATE 1.0.0
 
-**AMDTVMATE est actuellement en développement. Aucun APK stable n'a encore été publié.**
+**Première distribution signée pour Android TV ARM 32/64 bits.**
+
+[Télécharger AMDTVMATE 1.0.0](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/download/v1.0.0/AMDTVMATE-standard-v1.0.0.apk) · [Notes et sources](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.0.0)
 
 [![Consulter les versions](https://img.shields.io/badge/CONSULTER_LES_RELEASES-GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amdriggard/AMDTVMATE-Releases/releases)
 
 </div>
 
-**Identité Android de distribution :** `com.amdtvmate.app`. La version de développement utilise `com.amdtvmate.app.debug` ; elle est distincte de la future distribution signée.
+**Identité Android de distribution :** `com.amdtvmate.app`. La version de développement utilise `com.amdtvmate.app.debug` ; elle est distincte de la distribution signée.
 
-Ce dépôt est dédié à la **présentation officielle** d'AMDTVMATE et, à terme, à la **distribution des APK stables approuvés**.
+Ce dépôt est dédié à la **présentation officielle** d'AMDTVMATE et à la **distribution des APK stables approuvés**.
 
-Le mécanisme de mise à jour de distribution dispose de contrôles d’identité, de version et de signature. Sa validation réelle entre deux versions signées reste à effectuer avant la première publication. Les builds de développement ne proposent pas l’installation des releases.
+Le mécanisme de mise à jour de distribution dispose de contrôles d’identité, de version et de signature. Sa validation réelle entre deux versions signées reste à effectuer. Les builds de développement ne proposent pas l’installation des releases.
 
 **Aucun APK de développement ni identifiant privé ne sera publié ici.**
 
@@ -143,7 +145,7 @@ Le mécanisme de mise à jour de distribution dispose de contrôles d’identit�
 
 AMDTVMATE est un **logiciel de lecture multimédia**. Il ne fournit pas, par lui-même, de droits de diffusion ou d'accès aux contenus. L'utilisateur doit disposer des autorisations appropriées pour les sources qu'il utilise.
 
-Le **code source du projet** est géré séparément ; ce dépôt public est consacré à sa présentation et à ses futures versions distribuées. Les notices de licence et obligations relatives aux composants tiers seront respectées lors de la publication.
+Le **code source du projet** est géré séparément ; ce dépôt public présente l’application et ses versions distribuées. Les sources correspondantes et notices GPLv3/tiers sont disponibles avec chaque release. Le dépôt de travail reste privé.
 
 ---
 
@@ -157,6 +159,10 @@ Le **code source du projet** est géré séparément ; ce dépôt public est con
 
 <br><br>
 
-[**Voir les futures versions**](https://github.com/Amdriggard/AMDTVMATE-Releases/releases)
+[**Voir les versions**](https://github.com/Amdriggard/AMDTVMATE-Releases/releases)
 
 </div>
+
+### Sauvegardes
+
+Sauvegarde complète protégée par mot de passe (recommandée), ou sans mot de passe après avertissement. Cette dernière contient les accès enregistrés : conserver le fichier privé.
