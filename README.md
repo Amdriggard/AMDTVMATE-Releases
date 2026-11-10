@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="assets/branding/banner.png" alt="Bannière officielle AMDTVMATE" width="100%" />
+<img src="assets/branding/banner.png" alt="Bannière officielle AMDTVMATE" width="640" />
 
 <br>
 
-<img src="assets/branding/wordmark.png" alt="AMDTVMATE" width="510" />
+<img src="assets/branding/mark.png" alt="Emblème AMDTVMATE" width="88" />
+<img src="assets/branding/wordmark.png" alt="AMDTVMATE" width="380" />
 
 ### Tout votre univers, sur grand écran.
 
@@ -42,56 +43,33 @@ L'idée est simple : mettre vos contenus à l'honneur et rendre chaque interacti
 
 ## ✨ Une interface qui change tout
 
-<div align="center">
-  <img src="assets/screenshots/01-accueil.png" alt="Aperçu de l'accueil AMDTVMATE" width="100%" />
-  <sub>Accueil AMDTVMATE — aperçu de développement</sub>
-</div>
+### Accueil — carrousel et reprises
 
-<br>
+<img src="assets/screenshots/01-accueil.png" alt="Accueil — carrousel et reprises" width="100%" />
 
-**Une identité visuelle forte.** Une palette violet profond, des accents lumineux, des affiches mises en valeur et des espaces conçus pour la lecture sur téléviseur.
+### TV en direct — catégories, chaînes regroupées et programmes
 
-**Une interface intelligente.** Le principe du **mode AUTO** vise à adapter les tailles, espacements et éléments visibles à la place réellement disponible, sans sacrifier la lisibilité ni le contrôle à la télécommande.
+<img src="assets/screenshots/02-tv-direct.png" alt="TV en direct — catégories, chaînes regroupées et programmes" width="100%" />
+
+### Films — présentation cinéma et badges de qualité
+
+<img src="assets/screenshots/03-films.png" alt="Films — présentation cinéma et badges de qualité" width="100%" />
+
+### Séries — catalogue et présentation cinéma
+
+<img src="assets/screenshots/04-series.png" alt="Séries — catalogue et présentation cinéma" width="100%" />
+
+### Recherche — titres, genres et acteurs
+
+<img src="assets/screenshots/05-recherche.png" alt="Recherche — titres, genres et acteurs" width="100%" />
+
+<sub>Captures fournies le 10 novembre 2026, issues de la version de développement. Les contenus visibles dépendent des sources de l’utilisateur.</sub>
 
 ---
 
 ## 📺 Votre divertissement, sans compromis
 
-### 01 — La télévision en direct, autrement
-
-<div align="center">
-  <img src="assets/screenshots/02-tv-direct.png" alt="Interface TV en direct AMDTVMATE" width="100%" />
-</div>
-
-<br>
-
-Accédez à votre univers TV grâce à une navigation pensée pour le quotidien : **groupes de chaînes, favoris, guide des programmes et changement de chaîne à la télécommande**. L'objectif : passer moins de temps dans les menus et davantage de temps devant vos programmes.
-
-### 02 — Les films prennent une autre dimension
-
-<div align="center">
-  <img src="assets/screenshots/03-films.png" alt="Catalogue des films AMDTVMATE" width="100%" />
-  <br><br>
-  <img src="assets/screenshots/04-fiche-film.png" alt="Fiche détaillée d'un film dans AMDTVMATE" width="100%" />
-</div>
-
-<br>
-
-Parcourez un catalogue d'affiches et découvrez des **fiches immersives** : présentation, synopsis, distribution, informations du film et accès aux actions disponibles. Une expérience inspirée de l'univers du cinéma, sans perdre la simplicité d'un lecteur TV.
-
-### 03 — Les séries, épisode après épisode
-
-<div align="center">
-  <img src="assets/screenshots/05-series.png" alt="Catalogue des séries AMDTVMATE" width="100%" />
-  <br><br>
-  <img src="assets/screenshots/06-fiche-serie.png" alt="Fiche de série AMDTVMATE avec saisons et épisodes" width="100%" />
-</div>
-
-<br>
-
-Retrouvez **saisons, épisodes et détails** dans une présentation pensée pour les longues soirées séries. La navigation et les parcours de sélection sont travaillés pour rester accessibles au **D-pad**, sans gestes tactiles obligatoires.
-
-> Les captures montrent une version de développement. L'apparence et la disponibilité de certaines fonctions peuvent encore évoluer avant la première publication.
+TV en direct avec catégories et choix des flux, catalogues Films/Séries en présentation cinéma, recherche par titres, genres ou acteurs : les parcours sont conçus pour la télécommande, avec un focus visible et une interface AUTO adaptée à l’espace disponible.
 
 ---
 
@@ -150,6 +128,8 @@ Des contrôles ciblés et des essais manuels ont été réalisés sur un émulat
 [![Consulter les versions](https://img.shields.io/badge/CONSULTER_LES_RELEASES-GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amdriggard/AMDTVMATE-Releases/releases)
 
 </div>
+
+**Identité Android de distribution :** `com.amdtvmate.app`. La version de développement utilise `com.amdtvmate.app.debug` ; elle est distincte de la future distribution signée.
 
 Ce dépôt est dédié à la **présentation officielle** d'AMDTVMATE et, à terme, à la **distribution des APK stables approuvés**.
 
