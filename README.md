@@ -13,9 +13,9 @@
 
 <br>
 
-![Statut](https://img.shields.io/badge/STATUT-VERSION_1.0.0-7C3AED?style=for-the-badge&labelColor=11101A)
+![Statut](https://img.shields.io/badge/STATUT-VERSION_1.0.1-7C3AED?style=for-the-badge&labelColor=11101A)
 ![Plateforme](https://img.shields.io/badge/PLATEFORME-ANDROID_TV-242235?style=for-the-badge&labelColor=11101A)
-![Canal](https://img.shields.io/badge/RELEASES-1.0.0-6D28D9?style=for-the-badge&labelColor=11101A)
+![Canal](https://img.shields.io/badge/RELEASES-1.0.1-6D28D9?style=for-the-badge&labelColor=11101A)
 
 <br>
 
@@ -101,9 +101,18 @@ TV en direct avec catégories et choix des flux, catalogues Films/Séries en pr�
 
 ---
 
-## Avancement — 10 novembre 2026
+## Avancement — 12 novembre 2026
 
-Les développements récents comprennent :
+La version 1.0.1 ajoute notamment :
+
+- **Versions d’un même titre** (VF, VOSTFR, 4K…) : bouton Versions, ouverture sur la meilleure version pour la langue et l’écran, reprise et favori partagés.
+- **Langue de l’appareil** pour les films et séries, avec sous-titres forcés.
+- **Chaînes** : numéros et noms Orange complétés par le plan Free, groupes du fournisseur affichés en entier, séparation d’un flux mal nommé.
+- **Accueil** : suggestions « Pour vous », logos assortis au titre avec halo pour les logos sombres.
+- **Aide** intégrée et **Paramètres** réorganisés, recherche tolérante aux fautes.
+- Connexion AMDTVMATE et synchronisation entre appareils ; les autres types de connexion sont temporairement indisponibles.
+
+Base de la version 1.0.0 :
 
 - TV en direct en trois zones, tri Orange TV, variantes d’une même chaîne accessibles dans un sélecteur et dernier choix de flux mémorisé. Les éditions régionales et décalées restent distinctes.
 - **EPG AMDTVMATE — fourni par XMLTV FR**, configuration initiale sans doublon et actualisation selon les réglages. La couverture dépend des correspondances disponibles.
@@ -113,7 +122,7 @@ Les développements récents comprennent :
 - Métadonnées suivant la langue de l’appareil par défaut, logos TMDB, années et titres défilants au focus. Les badges utilisent les informations de la source ou les dimensions observées lors d’une lecture normale.
 - Installation et profils à halos thématiques, chargements discrets, transitions désactivables et libellés audio/sous-titres enrichis selon les informations du média.
 
-Des contrôles ciblés et des essais manuels ont été réalisés sur un émulateur Android TV. Ils ne remplacent pas une validation générale sur les téléviseurs et boîtiers réels. Les dernières retouches du carrousel ont été validées ; la signature finale, les builds debug/release et le transfert de sauvegarde sans mot de passe vers l’officielle sont validés. Les mises à jour entre deux versions de distribution restent à tester.
+Des contrôles ciblés et des essais manuels ont été réalisés sur un émulateur Android TV. Ils ne remplacent pas une validation générale sur les téléviseurs et boîtiers réels. Les dernières retouches du carrousel ont été validées ; la signature finale, les builds debug/release et le transfert de sauvegarde sans mot de passe vers l’officielle sont validés. La mise à jour 1.0.0 → 1.0.1 sera la première validation de ce parcours sur boîtier réel.
 
 ---
 
@@ -121,11 +130,13 @@ Des contrôles ciblés et des essais manuels ont été réalisés sur un émulat
 
 <div align="center">
 
-### AMDTVMATE 1.0.0
+### AMDTVMATE 1.0.1
 
-**Première distribution signée pour Android TV ARM 32/64 bits.**
+**Mise à jour pour Android TV ARM 32/64 bits : versions des titres, langue de l’appareil, chaînes Orange/Free, page Aide.**
 
-[Télécharger AMDTVMATE 1.0.0](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/download/v1.0.0/AMDTVMATE-standard-v1.0.0.apk) · [Notes et sources](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.0.0)
+[Télécharger AMDTVMATE 1.0.1](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/download/v1.0.1/AMDTVMATE-standard-v1.0.1.apk) · [Notes et sources](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.0.1)
+
+<sub>Version précédente : [AMDTVMATE 1.0.0](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.0.0)</sub>
 
 [![Consulter les versions](https://img.shields.io/badge/CONSULTER_LES_RELEASES-GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amdriggard/AMDTVMATE-Releases/releases)
 
