@@ -138,6 +138,8 @@ Des contrôles ciblés et des essais manuels ont été réalisés sur un émulat
 
 [Télécharger AMDTVMATE 1.1.0](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/download/v1.1.0/AMDTVMATE-standard-v1.1.0.apk) · [Notes et sources](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.1.0)
 
+**Boîtiers sous Android 9 encore en 1.0.1 (par exemple Mi Box S)** : la mise à jour depuis l'application peut s'arrêter sur « La mise à jour n'a pas été téléchargée entièrement ». Le fichier est bien reçu, mais la 1.0.1 ne parvient pas à lire sa signature sous Android 9 et le refuse. Installez une fois AMDTVMATE-standard-v1.1.0.apk à la main, par-dessus la 1.0.1 : vos données sont conservées. La 1.1.0 corrige ce contrôle pour les mises à jour suivantes.
+
 <sub>Versions précédentes : [AMDTVMATE 1.0.1](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.0.1) · [AMDTVMATE 1.0.0](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.0.0)</sub>
 
 [![Consulter les versions](https://img.shields.io/badge/CONSULTER_LES_RELEASES-GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amdriggard/AMDTVMATE-Releases/releases)
