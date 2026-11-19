@@ -13,9 +13,9 @@
 
 <br>
 
-![Statut](https://img.shields.io/badge/STATUT-VERSION_1.1.0-7C3AED?style=for-the-badge&labelColor=11101A)
+![Statut](https://img.shields.io/badge/STATUT-VERSION_1.1.1-7C3AED?style=for-the-badge&labelColor=11101A)
 ![Plateforme](https://img.shields.io/badge/PLATEFORME-ANDROID_TV-242235?style=for-the-badge&labelColor=11101A)
-![Canal](https://img.shields.io/badge/RELEASES-1.1.0-6D28D9?style=for-the-badge&labelColor=11101A)
+![Canal](https://img.shields.io/badge/RELEASES-1.1.1-6D28D9?style=for-the-badge&labelColor=11101A)
 
 <br>
 
@@ -101,9 +101,18 @@ TV en direct avec catégories et choix des flux, catalogues Films/Séries en pr�
 
 ---
 
-## Avancement — 14 novembre 2026
+## Avancement — 19 novembre 2026
 
-La version 1.1.0 ajoute notamment :
+La version 1.1.1 ajoute notamment :
+
+- **Sports** : rubrique dans le menu et rangée sur l'Accueil, alertes, championnats suivis et chaîne retenue par compétition, noms en français.
+- **Lecture** : autre version lancée automatiquement quand le téléviseur ne sait pas afficher le Dolby Vision, changement de langue audio sans coupure, reprise des séries à l'épisode vu le plus loin.
+- **Catalogues** : vue Grille pour Films et Séries.
+- **Profils** : catégories verrouillables par code PIN et code des Paramètres par profil.
+- **Synchronisation entre TV** : profils, playlists, favoris et réglages partagés, suppressions transmises.
+- Paramètres mieux rangés, fenêtres plus compactes, ouverture à la sortie de veille.
+
+La version 1.1.0 avait ajouté :
 
 - **Bandes-annonces** dans le bandeau après 5 secondes sur un film ou une série (catalogues, accueil, fiches), avec le son, et un **mode immersif** qui laisse toute la place à la vidéo.
 - **Fiches** films et séries au même modèle, page Épisodes à part, affiches et résumés en français.
@@ -124,7 +133,7 @@ Base de la version 1.0.0 :
 - Métadonnées suivant la langue de l’appareil par défaut, logos TMDB, années et titres défilants au focus. Les badges utilisent les informations de la source ou les dimensions observées lors d’une lecture normale.
 - Installation et profils à halos thématiques, chargements discrets, transitions désactivables et libellés audio/sous-titres enrichis selon les informations du média.
 
-Des contrôles ciblés et des essais manuels ont été réalisés sur un émulateur Android TV. Ils ne remplacent pas une validation générale sur les téléviseurs et boîtiers réels. Les dernières retouches du carrousel ont été validées ; la signature finale, les builds debug/release et le transfert de sauvegarde sans mot de passe vers l’officielle sont validés. La mise à jour 1.0.1 → 1.1.0 par l’APK a été validée sur émulateur Android TV, données conservées.
+Des contrôles ciblés et des essais manuels ont été réalisés sur un émulateur Android TV. Ils ne remplacent pas une validation générale sur les téléviseurs et boîtiers réels. Les dernières retouches du carrousel ont été validées ; la signature finale, les builds debug/release et le transfert de sauvegarde sans mot de passe vers l’officielle sont validés. La mise à jour 1.0.1 → 1.1.0 par l’APK a été validée sur émulateur Android TV, données conservées. La 1.1.1 a été essayée pendant sa mise au point sur NVIDIA Shield, Xiaomi Mi Box S et émulateur Android TV.
 
 ---
 
@@ -132,15 +141,15 @@ Des contrôles ciblés et des essais manuels ont été réalisés sur un émulat
 
 <div align="center">
 
-### AMDTVMATE 1.1.0
+### AMDTVMATE 1.1.1
 
-**Mise à jour pour Android TV ARM 32/64 bits : bandes-annonces et mode immersif, fiches revues, nouveaux épisodes, fluidité.**
+**Mise à jour pour Android TV ARM 32/64 bits : Sports, vue Grille, verrous PIN, synchronisation complète entre TV.**
 
-[Télécharger AMDTVMATE 1.1.0](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/download/v1.1.0/AMDTVMATE-standard-v1.1.0.apk) · [Notes et sources](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.1.0)
+[Télécharger AMDTVMATE 1.1.1](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/download/v1.1.1/AMDTVMATE-standard-v1.1.1.apk) · [Notes et sources](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.1.1)
 
-**Boîtiers sous Android 9 encore en 1.0.1 (par exemple Mi Box S)** : la mise à jour depuis l'application peut s'arrêter sur « La mise à jour n'a pas été téléchargée entièrement ». Le fichier est bien reçu, mais la 1.0.1 ne parvient pas à lire sa signature sous Android 9 et le refuse. Installez une fois AMDTVMATE-standard-v1.1.0.apk à la main, par-dessus la 1.0.1 : vos données sont conservées. La 1.1.0 corrige ce contrôle pour les mises à jour suivantes.
+**Boîtiers sous Android 9 encore en 1.0.1 (par exemple Mi Box S)** : la mise à jour depuis l'application peut s'arrêter sur « La mise à jour n'a pas été téléchargée entièrement ». Le fichier est bien reçu, mais la 1.0.1 ne parvient pas à lire sa signature sous Android 9 et le refuse. Installez une fois AMDTVMATE-standard-v1.1.1.apk à la main, par-dessus la 1.0.1 : vos données sont conservées. Depuis la 1.1.0, ce contrôle est corrigé pour les mises à jour suivantes.
 
-<sub>Versions précédentes : [AMDTVMATE 1.0.1](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.0.1) · [AMDTVMATE 1.0.0](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.0.0)</sub>
+<sub>Versions précédentes : [AMDTVMATE 1.1.0](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.1.0) · [AMDTVMATE 1.0.1](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.0.1) · [AMDTVMATE 1.0.0](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.0.0)</sub>
 
 [![Consulter les versions](https://img.shields.io/badge/CONSULTER_LES_RELEASES-GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amdriggard/AMDTVMATE-Releases/releases)
 
