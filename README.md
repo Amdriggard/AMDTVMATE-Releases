@@ -15,7 +15,7 @@
 
 ![Statut](https://img.shields.io/badge/STATUT-VERSION_1.1.2-7C3AED?style=for-the-badge&labelColor=11101A)
 ![Plateforme](https://img.shields.io/badge/ANDROID-TV_·_TÉLÉPHONE_·_TABLETTE-242235?style=for-the-badge&labelColor=11101A)
-![Mobile](https://img.shields.io/badge/MOBILE-1.2.0_PRÉVERSION-7C3AED?style=for-the-badge&labelColor=11101A)
+![Mobile](https://img.shields.io/badge/MOBILE-1.2.1_PRÉVERSION-7C3AED?style=for-the-badge&labelColor=11101A)
 ![Canal](https://img.shields.io/badge/RELEASES-1.1.2-6D28D9?style=for-the-badge&labelColor=11101A)
 
 <br>
@@ -52,9 +52,9 @@ L'idée est simple : mettre vos contenus à l'honneur et rendre chaque interacti
 
 <br>
 
-[![Télécharger pour Android](https://img.shields.io/badge/T%C3%89L%C3%89CHARGER-T%C3%89L%C3%89PHONE_ET_TABLETTE_1.2.0-7C3AED?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/download/v1.2.0/AMDTVMATE-mobile-v1.2.0.apk)
+[![Télécharger pour Android](https://img.shields.io/badge/T%C3%89L%C3%89CHARGER-T%C3%89L%C3%89PHONE_ET_TABLETTE_1.2.1-7C3AED?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/download/v1.2.1/AMDTVMATE-mobile-v1.2.1.apk)
 
-<sub>Préversion · Android 8.0 ou plus · ARM 32/64 bits · [Notes, sources et empreintes](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.2.0)</sub>
+<sub>Préversion · Android 8.0 ou plus · ARM 32/64 bits · [Notes, sources et empreintes](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.2.1)</sub>
 
 <br>
 
