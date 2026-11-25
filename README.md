@@ -14,12 +14,13 @@
 <br>
 
 ![Statut](https://img.shields.io/badge/STATUT-VERSION_1.1.1-7C3AED?style=for-the-badge&labelColor=11101A)
-![Plateforme](https://img.shields.io/badge/PLATEFORME-ANDROID_TV-242235?style=for-the-badge&labelColor=11101A)
+![Plateforme](https://img.shields.io/badge/ANDROID-TV_·_TÉLÉPHONE_·_TABLETTE-242235?style=for-the-badge&labelColor=11101A)
+![Mobile](https://img.shields.io/badge/MOBILE-1.2.0_PRÉVERSION-7C3AED?style=for-the-badge&labelColor=11101A)
 ![Canal](https://img.shields.io/badge/RELEASES-1.1.1-6D28D9?style=for-the-badge&labelColor=11101A)
 
 <br>
 
-[**Découvrir l'interface**](#-une-interface-qui-change-tout) · [**Fonctionnalités**](#-votre-divertissement-sans-compromis) · [**Mises à jour**](#-versions-et-mises-à-jour)
+[**Téléphone et tablette**](#-téléphone-et-tablette) · [**Découvrir l'interface**](#-une-interface-qui-change-tout) · [**Fonctionnalités**](#-votre-divertissement-sans-compromis) · [**Mises à jour**](#-versions-et-mises-à-jour)
 
 </div>
 
@@ -38,6 +39,50 @@ AMDTVMATE est une application multimédia conçue en priorité pour **Android TV
 L'idée est simple : mettre vos contenus à l'honneur et rendre chaque interaction plus agréable, depuis la page d'accueil jusqu'à la lecture.
 
 </div>
+
+---
+
+## 📱 Téléphone et tablette
+
+<div align="center">
+
+### AMDTVMATE arrive sur vos écrans tactiles.
+
+**La même identité, la même richesse, repensées pour le doigt.**
+
+<br>
+
+[![Télécharger pour Android](https://img.shields.io/badge/T%C3%89L%C3%89CHARGER-T%C3%89L%C3%89PHONE_ET_TABLETTE_1.2.0-7C3AED?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/download/v1.2.0/AMDTVMATE-mobile-v1.2.0.apk)
+
+<sub>Préversion · Android 8.0 ou plus · ARM 32/64 bits · [Notes, sources et empreintes](https://github.com/Amdriggard/AMDTVMATE-Releases/releases/tag/v1.2.0)</sub>
+
+<br>
+
+<img src="assets/screenshots/mobile/telephone.jpg" alt="AMDTVMATE sur téléphone : accueil, TV en direct et paramètres" width="100%" />
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/screenshots/mobile/tablette-accueil.jpg" alt="Tablette — accueil" /><br><sub align="center"><strong>Accueil</strong> — tendances et reprises sur une seule page</sub></td>
+    <td width="50%"><img src="assets/screenshots/mobile/tablette-guide.jpg" alt="Tablette — guide TV" /><br><sub><strong>Guide TV</strong> — grille et aperçu en direct</sub></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/mobile/tablette-fiche.jpg" alt="Tablette — fiche film" /><br><sub><strong>Fiches</strong> — actions, distribution et suggestions</sub></td>
+    <td><img src="assets/screenshots/mobile/tablette-parametres.jpg" alt="Tablette — paramètres" /><br><sub><strong>Paramètres</strong> — tout est rangé et se cherche</sub></td>
+  </tr>
+</table>
+
+| | Téléphone | Tablette |
+|---|---|---|
+| **Navigation** | Barre du bas et bouton Retour | Colonne à gauche |
+| **Accueil** | Défilement fluide | Pages pleines |
+| **Catalogues** | Affiches, grille ou liste | Grille et fiche côte à côte |
+| **Réglages** | Pages claires avec aide | Deux panneaux avec explications |
+
+**Installer :** téléchargez l'APK, ouvrez-le, autorisez l'installation, puis connectez-vous avec votre compte AMDTVMATE. Sur téléviseur, gardez la **version Android TV 1.1.1** ci-dessous.
+
+<sub>Captures du 25 novembre 2026 (émulateurs). Les contenus visibles dépendent des sources de l'utilisateur.</sub>
 
 ---
 
@@ -179,7 +224,7 @@ Le **code source du projet** est géré séparément ; ce dépôt public présen
 
 ### Tout votre univers, sur grand écran.
 
-<sub>Conçu pour Android TV · Pensé pour le grand écran · En évolution constante</sub>
+<sub>Android TV · Téléphone · Tablette · En évolution constante</sub>
 
 <br><br>
 
