@@ -42,6 +42,28 @@ L'idée est simple : mettre vos contenus à l'honneur et rendre chaque interacti
 
 ---
 
+## ⚡ Installer en une minute
+
+<div align="center">
+
+| 📺 TV et box Android | 📱 Téléphone et tablette |
+|:---:|:---:|
+| Code Downloader **`3898647`** | Code Downloader **`1317982`** |
+| [aftv.news/3898647](https://aftv.news/3898647) | [aftv.news/1317982](https://aftv.news/1317982) |
+| Android TV · Google TV · Fire TV | Android 8.0 ou plus |
+
+<img src="assets/install/AMDTVMATE-installer.png" alt="Affiche d'installation AMDTVMATE" width="420" />
+
+</div>
+
+**Sur la TV :** installez l'appli **Downloader** (AFTVnews) depuis le Play Store ou l'Appstore, autorisez-la dans *Sources inconnues*, puis tapez le code **3898647**.
+
+**Sur le téléphone :** ouvrez **aftv.news/1317982** dans le navigateur, puis installez le fichier téléchargé.
+
+<sub>Les codes pointent vers la TV 1.1.2 et le mobile 1.2.1 (préversion).</sub>
+
+---
+
 ## 📱 Téléphone et tablette
 
 <div align="center">
